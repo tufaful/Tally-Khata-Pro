@@ -1,12 +1,15 @@
 # TallyKhata Pro 📒✨
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Tally--Khata--Pro-181717.svg?style=flat&logo=github)](https://github.com/tufaful/Tally-Khata-Pro)
+[![Stars](https://img.shields.io/github/stars/tufaful/Tally-Khata-Pro?style=flat&logo=github)](https://github.com/tufaful/Tally-Khata-Pro/stargazers)
+[![Forks](https://img.shields.io/github/forks/tufaful/Tally-Khata-Pro?style=flat&logo=github)](https://github.com/tufaful/Tally-Khata-Pro/network/members)
+[![Issues](https://img.shields.io/github/issues/tufaful/Tally-Khata-Pro?style=flat&logo=github)](https://github.com/tufaful/Tally-Khata-Pro/issues)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84.svg?style=flat&logo=android)](https://www.android.com/)
 [![Language](https://img.shields.io/badge/Kotlin-2.0+-7F52FF.svg?style=flat&logo=kotlin)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4.svg?style=flat&logo=jetpackcompose)](https://developer.android.com/jetpack/compose)
 [![Database](https://img.shields.io/badge/Storage-Room%20DB-009688.svg?style=flat)](https://developer.android.com/training/data-storage/room)
 [![Design](https://img.shields.io/badge/Style-Material%20Design%203-FF7043.svg?style=flat)](https://m3.material.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/tufaful/Tally-Khata-Pro/blob/main/LICENSE)
 
 > **TallyKhata Pro** is a modern, offline-first digital ledger, bookkeeping, and customer credit management Android application built with Kotlin and Jetpack Compose. Engineered for shopkeepers, small business owners, freelancers, and individuals seeking private, fast, and reliable financial accounting.
 
@@ -14,7 +17,7 @@
 
 ### 📥 Direct APK Download
 > 🚀 **Ready-to-install APK included right in this repository!** You do not need Android Studio or any developer tools to run the app.  
-> 👉 **[Download `tallykhata-debug.apk` (Latest Build)](tallykhata-debug.apk?raw=true)**  
+> 👉 **[Download `tallykhata-debug.apk` (Latest Build)](https://github.com/tufaful/Tally-Khata-Pro/raw/main/tallykhata-debug.apk)**  
 > 
 > Simply download the APK file directly to your Android device, tap to install, and start managing your ledgers immediately!
 
@@ -65,10 +68,10 @@ TallyKhata Pro replaces traditional paper ledgers with a lightning-fast, secure,
 ## 💻 How to Install & Run
 
 ### 📲 Option 1: Direct APK Install (Instant - Recommended)
-A pre-built, ready-to-use debug APK is included directly in the root of this repository: **[`tallykhata-debug.apk`](tallykhata-debug.apk?raw=true)**.
+A pre-built, ready-to-use debug APK is included directly in the root of this repository: **[`tallykhata-debug.apk`](https://github.com/tufaful/Tally-Khata-Pro/raw/main/tallykhata-debug.apk)**.
 
 1. **Download the APK:**
-   * On your Android phone, tap: **[Download `tallykhata-debug.apk`](tallykhata-debug.apk?raw=true)**.
+   * On your Android phone, tap: **[Download `tallykhata-debug.apk`](https://github.com/tufaful/Tally-Khata-Pro/raw/main/tallykhata-debug.apk)**.
    * Or download it on your PC and transfer the file to your phone via USB or messaging.
 2. **Install on Phone:**
    * Open your phone's **Files** or **Downloads** app and tap `tallykhata-debug.apk`.
@@ -175,17 +178,19 @@ app/src/main/java/com/example/tallykhata/
 ## 🤝 Contributing
 
 Contributions, feature suggestions, and bug reports are welcome!
-1. Fork the Project.
+1. Fork the [Repository](https://github.com/tufaful/Tally-Khata-Pro/fork).
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the Branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
+5. Open a [Pull Request](https://github.com/tufaful/Tally-Khata-Pro/pulls).
+
+For issues, questions, or ideas, feel free to open a ticket on [GitHub Issues](https://github.com/tufaful/Tally-Khata-Pro/issues).
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** — see the [LICENSE](https://github.com/tufaful/Tally-Khata-Pro/blob/main/LICENSE) file for details.
 
 ---
 
