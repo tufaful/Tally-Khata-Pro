@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Tally Khata Pro</string>
+    <string name="app_tagline">ডিজিটাল টালি খাতা ও হিসাবরক্ষণ</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">হোম</string>
+    <string name="nav_customers">কাস্টমার</string>
+    <string name="nav_add">যোগ করুন</string>
+    <string name="nav_reports">রিপোর্ট</string>
+    <string name="nav_settings">সেটিংস</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_total_credit">মোট পাওনা</string>
+    <string name="dashboard_total_payment">মোট দেনা</string>
+    <string name="dashboard_today_credit">আজকের পাওনা</string>
+    <string name="dashboard_today_payment">আজকের জমা</string>
+    <string name="dashboard_total_customers">মোট কাস্টমার</string>
+    <string name="dashboard_today_transactions">আজকের লেনদেন</string>
+    <string name="dashboard_month_transactions">এই মাসের লেনদেন</string>
+    <string name="recent_transactions">সাম্প্রতিক লেনদেন</string>
+    <string name="view_all">সব দেখুন</string>
+    <string name="quick_actions">দ্রুত সেবা</string>
+    <string name="action_add_credit">+ পাওনা</string>
+    <string name="action_add_payment">− জমা</string>
+    <string name="action_add_customer">কাস্টমার</string>
+    <string name="action_make_receipt">রসিদ</string>
+    <string name="chart_title">লেনদেন বিশ্লেষণ</string>
+    
+    <!-- Customer -->
+    <string name="customer_name">কাস্টমারের নাম</string>
+    <string name="customer_phone">ফোন নম্বর</string>
+    <string name="customer_address">ঠিকানা</string>
+    <string name="customer_business">প্রতিষ্ঠানের নাম</string>
+    <string name="customer_notes">মন্তব্য বা নোট</string>
+    <string name="add_customer">নতুন কাস্টমার যোগ করুন</string>
+    <string name="edit_customer">কাস্টমার তথ্য সংশোধন</string>
+    <string name="delete_customer">কাস্টমার মুছে ফেলুন</string>
+    <string name="search_customer">নাম, ফোন বা ব্যবসা খুঁজুন…</string>
+    <string name="filter_all">সকল</string>
+    <string name="filter_due">পাওনাদার</string>
+    <string name="filter_advance">দেনা / জমা</string>
+    <string name="filter_settled">পরিশোধিত</string>
+    <string name="sort_recent">সাম্প্রতিক লেনদেন</string>
+    <string name="sort_balance_high">সর্বোচ্চ বকেয়া</string>
+    <string name="sort_name_az">নাম (অ - হ / A - Z)</string>
+    
+    <!-- Customer Profile -->
+    <string name="profile_balance">বর্তমান বাকি / ব্যালেন্স</string>
+    <string name="profile_total_credit">মোট পাওনা</string>
+    <string name="profile_total_payment">মোট জমা</string>
+    <string name="profile_transactions_count">মোট লেনদেন</string>
+    <string name="profile_last_date">সর্বশেষ লেনদেন</string>
+    <string name="btn_call">কল করুন</string>
+    <string name="btn_sms">এসএমএস</string>
+    <string name="btn_share">শেয়ার</string>
+    <string name="btn_reminder">তাগাদা দিন</string>
+    
+    <!-- Transactions -->
+    <string name="type_credit">পাওনা যোগ (বাকি বিক্রি)</string>
+    <string name="type_payment">জমা নিন (টাকা গ্রহণ)</string>
+    <string name="transaction_amount">টাকার পরিমাণ (৳)</string>
+    <string name="transaction_date">তারিখ</string>
+    <string name="transaction_note">বিবরণ / পণ্যের নাম</string>
+    <string name="transaction_category">ক্যাটাগরি</string>
+    <string name="save_transaction">সংরক্ষণ করুন</string>
+    <string name="btn_credit_add">পাওনা যোগ করুন</string>
+    <string name="btn_payment_add">জমা নিন</string>
+    <string name="edit_transaction">লেনদেন পরিবর্তন</string>
+    <string name="delete_transaction">লেনদেন মুছুন</string>
+    
+    <!-- Calculator -->
+    <string name="calc_mode_simple">সাধারণ ক্যালকুলেটর</string>
+    <string name="calc_mode_items">দর ও পরিমাণ হিসাব</string>
+    <string name="calc_quantity">পরিমাণ (সংখ্যা/কেজি)</string>
+    <string name="calc_unit_price">একক দর (৳)</string>
+    <string name="calc_discount">ছাড় (৳)</string>
+    <string name="calc_apply">মূল্য বসান</string>
+    
+    <!-- Receipts -->
+    <string name="receipt_title">ডিজিটাল রসিদ</string>
+    <string name="receipt_no">রসিদ নং</string>
+    <string name="receipt_prev_balance">পূর্বের বাকি</string>
+    <string name="receipt_txn_amount">লেনদেনের পরিমাণ</string>
+    <string name="receipt_curr_balance">বর্তমান জের / বকেয়া</string>
+    <string name="btn_save_pdf">পিডিএফ সংরক্ষণ</string>
+    <string name="btn_share_receipt">রসিদ পাঠান</string>
+    <string name="btn_print">প্রিন্ট করুন</string>
+    
+    <!-- Khata -->
+    <string name="khata_title">খাতা পরিচালনা</string>
+    <string name="khata_current">চলতি খাতা</string>
+    <string name="khata_create">নতুন খাতা তৈরি করুন</string>
+    <string name="khata_name_hint">খাতার নাম (যেমন: পাইকারি খাতা)</string>
+    <string name="khata_switch">খাতা পরিবর্তন করুন</string>
+    <string name="khata_delete">খাতা মুছুন</string>
+    
+    <!-- Reports -->
+    <string name="reports_title">হিসাব রিপোর্ট</string>
+    <string name="report_daily">দৈনিক</string>
+    <string name="report_weekly">সাপ্তাহিক</string>
+    <string name="report_monthly">মাসিক</string>
+    <string name="report_yearly">বার্ষিক</string>
+    <string name="export_pdf">পিডিএফ রিপোর্ট</string>
+    <string name="export_csv">এক্সেল/সিএসভি ডাউনলোড</string>
+    
+    <!-- Reminders -->
+    <string name="reminders_title">পেমেন্ট রিমাইন্ডার</string>
+    <string name="add_reminder">নতুন তাগাদা যোগ করুন</string>
+    <string name="reminder_date">তারিখ ও সময়</string>
+    <string name="reminder_note">তাগাদা বার্তা</string>
+    
+    <!-- Voice -->
+    <string name="voice_entry_title">ভয়েস লেনদেন</string>
+    <string name="voice_tap_to_speak">বলতে ট্যাপ করুন অথবা লিখে ট্রাই করুন</string>
+    <string name="voice_example">উদাহরণ: "রহিমকে পাঁচ হাজার টাকা দিলাম"</string>
+    <string name="voice_confirm_title">এই লেনদেনটি সংরক্ষণ করবেন?</string>
+    <string name="voice_save">সংরক্ষণ</string>
+    <string name="voice_cancel">বাতিল</string>
+    
+    <!-- Backup & Restore -->
+    <string name="backup_title">ব্যাকআপ ও রিস্টোর</string>
+    <string name="backup_now">এখনই ব্যাকআপ নিন</string>
+    <string name="backup_history">পূর্ববর্তী ব্যাকআপ ফাইল</string>
+    <string name="restore_full">সম্পূর্ণ রিস্টোর (প্রতিস্থাপন)</string>
+    <string name="restore_merge">যুক্ত করে রিস্টোর (মার্জ)</string>
+    <string name="auto_backup_label">অটো ব্যাকআপ শিডিউল</string>
+    
+    <!-- Security -->
+    <string name="security_title">নিরাপত্তা ও গোপনীয়তা</string>
+    <string name="pin_lock">পিন লক (PIN Lock)</string>
+    <string name="privacy_mode">ব্যালেন্স গোপন রাখুন (••••••)</string>
+    <string name="enter_pin">আপনার ৪ সংখ্যার পিন দিন</string>
+    <string name="set_pin">নতুন পিন সেট করুন</string>
+    <string name="confirm_pin">পিন পুনরায় নিশ্চিত করুন</string>
+    
+    <!-- Trash -->
+    <string name="trash_title">রিসাইকেল বিন / ট্র্যাশ</string>
+    <string name="trash_empty">রিসাইকেল বিন সম্পূর্ণ খালি করুন</string>
+    <string name="trash_restore">পুনরুদ্ধার করুন</string>
+    <string name="trash_delete_forever">স্থায়ীভাবে মুছুন</string>
+    
+    <!-- General -->
+    <string name="cancel">বাতিল</string>
+    <string name="confirm">নিশ্চিত করুন</string>
+    <string name="save">সংরক্ষণ করুন</string>
+    <string name="delete">মুছে ফেলুন</string>
+    <string name="currency_symbol">৳</string>
+</resources>
